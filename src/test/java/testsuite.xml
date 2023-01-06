@@ -1,0 +1,24 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name = "Suite1">
+
+   <test name = "givenUrl1getStatus200">
+      <classes>
+         <class name = "givenUrl1getStatus200" />
+      </classes>
+   </test>
+
+   <test name = "givenUrl2getStatus200">
+      <classes>
+         <class name = "givenUrl3getStatus200" />
+      </classes>
+   </test>
+
+   <test name = "givenUrl3getStatus200">
+      <classes>
+         <class name = "givenUrl3getStatus200" />
+      </classes>
+   </test>
+
+</suite>
